@@ -1,0 +1,8 @@
+{
+  "name": "atm-info",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f1ccdf5d"
+}
